@@ -1,0 +1,76 @@
+{
+  "Ogrenciler": [
+    {
+      "Courses": [],
+      "Id": 101,
+      "Name": "mehmet",
+      "Email": "mehmet@gmail.com"
+    },
+    {
+      "Courses": [
+        {
+          "Name": "matematik",
+          "Credits": 5,
+          "Instructor": {
+            "Id": 0,
+            "Name": "Dr. Refik",
+            "Email": null
+          },
+          "RegisteredStudents": []
+        }
+      ],
+      "Id": 101,
+      "Name": "zeynep",
+      "Email": "zeyno@gmail.com"
+    },
+    {
+      "Courses": [
+        {
+          "Name": "matematik",
+          "Credits": 5,
+          "Instructor": {
+            "Id": 0,
+            "Name": "Dr. Refik",
+            "Email": null
+          },
+          "RegisteredStudents": [
+            {
+              "Courses": [],
+              "Id": 101,
+              "Name": "zeynep",
+              "Email": "zeyno@gmail.com"
+            }
+          ]
+        }
+      ],
+      "Id": 103,
+      "Name": "sümeyye",
+      "Email": "süm@hotmail.com"
+    }
+  ],
+  "Dersler": [
+    {
+      "Name": "matematik",
+      "Credits": 5,
+      "Instructor": {
+        "Id": 0,
+        "Name": "Dr. Refik",
+        "Email": null
+      },
+      "RegisteredStudents": [
+        {
+          "Courses": [],
+          "Id": 101,
+          "Name": "zeynep",
+          "Email": "zeyno@gmail.com"
+        },
+        {
+          "Courses": [],
+          "Id": 103,
+          "Name": "sümeyye",
+          "Email": "süm@hotmail.com"
+        }
+      ]
+    }
+  ]
+}

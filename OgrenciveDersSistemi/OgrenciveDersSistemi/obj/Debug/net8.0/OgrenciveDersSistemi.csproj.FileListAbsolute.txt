@@ -1,0 +1,17 @@
+C:\Users\mpand\source\repos\OgrenciveDersSistemi\OgrenciveDersSistemi\obj\Debug\net8.0\OgrenciveDersSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpand\source\repos\OgrenciveDersSistemi\OgrenciveDersSistemi\obj\Debug\net8.0\OgrenciveDersSistemi.AssemblyInfoInputs.cache
+C:\Users\mpand\source\repos\OgrenciveDersSistemi\OgrenciveDersSistemi\obj\Debug\net8.0\OgrenciveDersSistemi.AssemblyInfo.cs
+C:\Users\mpand\source\repos\OgrenciveDersSistemi\OgrenciveDersSistemi\obj\Debug\net8.0\OgrenciveDersSistemi.csproj.CoreCompileInputs.cache
+C:\Users\mpand\source\repos\OgrenciveDersSistemi\OgrenciveDersSistemi\bin\Debug\net8.0\OgrenciveDersSistemi.exe
+C:\Users\mpand\source\repos\OgrenciveDersSistemi\OgrenciveDersSistemi\bin\Debug\net8.0\OgrenciveDersSistemi.deps.json
+C:\Users\mpand\source\repos\OgrenciveDersSistemi\OgrenciveDersSistemi\bin\Debug\net8.0\OgrenciveDersSistemi.runtimeconfig.json
+C:\Users\mpand\source\repos\OgrenciveDersSistemi\OgrenciveDersSistemi\bin\Debug\net8.0\OgrenciveDersSistemi.dll
+C:\Users\mpand\source\repos\OgrenciveDersSistemi\OgrenciveDersSistemi\bin\Debug\net8.0\OgrenciveDersSistemi.pdb
+C:\Users\mpand\source\repos\OgrenciveDersSistemi\OgrenciveDersSistemi\obj\Debug\net8.0\OgrenciveDersSistemi.dll
+C:\Users\mpand\source\repos\OgrenciveDersSistemi\OgrenciveDersSistemi\obj\Debug\net8.0\refint\OgrenciveDersSistemi.dll
+C:\Users\mpand\source\repos\OgrenciveDersSistemi\OgrenciveDersSistemi\obj\Debug\net8.0\OgrenciveDersSistemi.pdb
+C:\Users\mpand\source\repos\OgrenciveDersSistemi\OgrenciveDersSistemi\obj\Debug\net8.0\OgrenciveDersSistemi.genruntimeconfig.cache
+C:\Users\mpand\source\repos\OgrenciveDersSistemi\OgrenciveDersSistemi\obj\Debug\net8.0\ref\OgrenciveDersSistemi.dll
+C:\Users\mpand\source\repos\OgrenciveDersSistemi\OgrenciveDersSistemi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mpand\source\repos\OgrenciveDersSistemi\OgrenciveDersSistemi\obj\Debug\net8.0\OgrenciveDersSistemi.csproj.AssemblyReference.cache
+C:\Users\mpand\source\repos\OgrenciveDersSistemi\OgrenciveDersSistemi\obj\Debug\net8.0\Ogrenciv.D0410B99.Up2Date
